@@ -33,3 +33,5 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh",WIKI TV (720p)
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="EACNews.kh",EACNews TV (720p)
+https://eacnews_tv.netlinkbroadcaster.com/hls/test.m3u8
